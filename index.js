@@ -13,3 +13,11 @@ function testAdd() {
 function testSubtract() {
   console.log(add(2, 1) === 3);
 }
+
+function mul(a,b){
+  return a * b;
+}
+
+function div(a,b) {
+  return a / b;
+}
