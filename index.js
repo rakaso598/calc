@@ -7,9 +7,9 @@ function subtract(a, b) {
 }
 
 function testAdd() {
-  console.log(add(1,1) === 2);
+  console.log(add(1, 1) === 2);
 }
 
 function testSubtract() {
-  console.log(add(2,1) === 3);
+  console.log(add(2, 1) === 3);
 }
