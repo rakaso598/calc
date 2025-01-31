@@ -14,12 +14,18 @@ function testSubtract() {
   console.log(add(2, 1) === 3);
 }
 
+<<<<<<< HEAD
 function mul(a,b){
   return a * b;
 }
 
 function div(a,b) {
-  return a / b;
+=======
+function multiply(a,b) {
+  return a*b;
 }
 
-raavbdbb3333333333
+function divide(a,b) {
+>>>>>>> new
+  return a / b;
+}
