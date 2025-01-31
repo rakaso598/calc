@@ -14,6 +14,10 @@ function testSubtract() {
   console.log(add(2, 1) === 3);
 }
 
-function multiply () {
-  console.log(multiply(a,b));
+function multiply(a,b) {
+  return a*b;
+}
+
+function divide(a,b) {
+  return a / b;
 }
