@@ -13,3 +13,7 @@ function testAdd() {
 function testSubtract() {
   console.log(add(2, 1) === 3);
 }
+
+function multiply () {
+  console.log(multiply(a,b));
+}
