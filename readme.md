@@ -2,8 +2,7 @@
 
 ## API
 
-- `add(a, b)`
-- `subtract(a, b)`
-- `temp()`
+- `add(a, b)` : a와 b를 더한다 
+- `subtract(a, b)` : a와 b를 뺀다 
                       
                       
